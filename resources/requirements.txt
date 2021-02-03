@@ -1,1 +1,1 @@
-git+git://github.com/pkkid/python-plexapi.git@master#egg=plexapi
+git+git://github.com/pkkid/python-plexapi.git@3.5.0#egg=plexapi
